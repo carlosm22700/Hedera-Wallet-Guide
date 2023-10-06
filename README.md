@@ -1,7 +1,7 @@
 # Hedera-Wallet-Guide
 Reference for setting up a Hedera Wallet
 
-[Hedera Testnet](https://portal.hedera.com/register)
+[Sign up for Hedera Testnet](https://portal.hedera.com/register)
 
 
 ## Hedera Hashgraph JavaScript SDK
